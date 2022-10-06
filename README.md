@@ -1,6 +1,6 @@
 ## Personal Website
 
-- Built using CSS, HTML, Python, and JavaScript
+- Built using CSS, HTML, and JavaScript
 - Template from [HTML5 UP](https://html5up.net/) using [Hyperspace](https://html5up.net/hyperspace)
 - Photos from [unsplash](https://unsplash.com/collections/1339119/mac-wallpapers)
 
