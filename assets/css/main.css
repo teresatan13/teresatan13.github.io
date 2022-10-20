@@ -1,5 +1,16 @@
 @import url(fontawesome-all.min.css);
 
+.project-sub-details {
+	align-items: center;
+	box-sizing: border-box;
+	color: rgba(194, 186, 196, 0.39);
+	display: flex;
+	font-family: Poppins, sans-serif;
+	line-height: 24px;
+	font-size: 17.5px;
+	justify-content: space-between;
+	width: 474px;
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
